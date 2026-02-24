@@ -52,3 +52,5 @@ v5e-1 TPU 구글 제공
 
 https://wikidocs.net/92071
 차트그리기
+
+https://github.com/lonen8188/AIStudy25/blob/master/03_02_k%EC%B5%9C%EA%B7%BC%EC%A0%91%EC%9D%B4%EC%9B%83%ED%9A%8C%EA%B7%80%EC%9D%98%ED%95%9C%EA%B3%84.ipynb
